@@ -21,6 +21,19 @@
 
 ## Interface da Calculadora
 
-![calculadora](https://github.com/BrunoZancan/calculadora-de-media/assets/154844348/f04ff1f3-95b4-474d-a4a9-e01aaf661f58)
+![Interface da Calculadora](https://github.com/BrunoZancan/calculadora-de-media/assets/154844348/f04ff1f3-95b4-474d-a4a9-e01aaf661f58)
 
 ***
+
+### Calculadora em uso
+ 
+![Calculadora em Uso](https://github.com/BrunoZancan/calculadora-de-media/assets/154844348/8e71e395-8df7-45b3-8fe9-1ff429d20f63)
+
+***
+
+### Tratamento de erros
+
+![Tratamento de erros](https://github.com/BrunoZancan/calculadora-de-media/assets/154844348/832e19ea-1af5-4d6d-81a0-a825885e7d1e)
+
+***
+
