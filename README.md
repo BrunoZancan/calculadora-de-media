@@ -33,7 +33,19 @@
 
 ### Tratamento de erros
 
+ Caso você digite algum número inválido, o aplicativo irá te alertar, evitando erros de lógica
+
 ![Tratamento de erros](https://github.com/BrunoZancan/calculadora-de-media/assets/154844348/832e19ea-1af5-4d6d-81a0-a825885e7d1e)
 
 ***
+
+## Baixar Calculadora
+
+ Caso você queira baixar e testar a calculadora, abaixo está o link de download pelo **Google Drive**
+
+**[Windows *(Google Drive)*](https://drive.google.com/file/d/1e472lXKoT0ObACyh-g-XXrlu1Q1My-EY/view?usp=drive_link)**
+
+ ***
+
+ Espero que você tenha gostado da calculadora, se achar algum bug ou algo a melhorar por favor me avise, **Obrigado**
 
