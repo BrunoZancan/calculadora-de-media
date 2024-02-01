@@ -85,7 +85,7 @@ namespace CalcMedia
                     this.media.Font = new Font(this.media.Font.FontFamily, 14);
                 } else
                 {
-                    this.media.Font = new Font(this.media.Font.FontFamily, 12);
+                    this.media.Font = new Font(this.media.Font.FontFamily, 13);
                 }
 
                 this.media.Text = resultado;

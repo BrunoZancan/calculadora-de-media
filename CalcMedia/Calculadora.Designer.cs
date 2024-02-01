@@ -153,10 +153,10 @@
             this.media.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.media.AutoEllipsis = true;
             this.media.Font = new System.Drawing.Font("Lucida Console", 15.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.media.Location = new System.Drawing.Point(248, 129);
+            this.media.Location = new System.Drawing.Point(243, 129);
             this.media.Margin = new System.Windows.Forms.Padding(0);
             this.media.Name = "media";
-            this.media.Size = new System.Drawing.Size(146, 21);
+            this.media.Size = new System.Drawing.Size(152, 21);
             this.media.TabIndex = 6;
             this.media.Text = "....";
             this.media.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
