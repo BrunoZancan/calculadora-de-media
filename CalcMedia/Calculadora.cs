@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
+using TextBox = System.Windows.Forms.TextBox;
 
 namespace CalcMedia
 {
@@ -67,7 +69,26 @@ namespace CalcMedia
             } else
             {
                 media = soma / (4 - numsVazio);
-                this.Controls["media"].Text = String.Format("{0:F2}", media);
+
+                var resultado = String.Format("{0:F2}", media);
+                 
+                if (resultado.Length < 8)
+                {
+                    this.media.Font = new Font(this.media.Font.FontFamily, 16);
+                }
+                else if (resultado.Length < 11) 
+                {
+                    this.media.Font = new Font(this.media.Font.FontFamily, 15);
+                }
+                else if (resultado.Length < 12)
+                {
+                    this.media.Font = new Font(this.media.Font.FontFamily, 14);
+                } else
+                {
+                    this.media.Font = new Font(this.media.Font.FontFamily, 12);
+                }
+
+                this.media.Text = resultado;
             }
         }
 
@@ -81,7 +102,7 @@ namespace CalcMedia
                     ((TextBox)controle).Text = "";
                 }
 
-                this.Controls["media"].Text = "....";
+                this.media.Text = "....";
             }
 
             /*

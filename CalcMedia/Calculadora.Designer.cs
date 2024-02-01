@@ -50,7 +50,7 @@
             // 
             this.txtTitulo.AutoSize = true;
             this.txtTitulo.Font = new System.Drawing.Font("Trebuchet MS", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtTitulo.Location = new System.Drawing.Point(130, 19);
+            this.txtTitulo.Location = new System.Drawing.Point(130, 18);
             this.txtTitulo.Name = "txtTitulo";
             this.txtTitulo.Size = new System.Drawing.Size(160, 20);
             this.txtTitulo.TabIndex = 0;
@@ -59,7 +59,7 @@
             // nota1
             // 
             this.nota1.Location = new System.Drawing.Point(94, 60);
-            this.nota1.MaxLength = 10;
+            this.nota1.MaxLength = 9;
             this.nota1.Name = "nota1";
             this.nota1.Size = new System.Drawing.Size(100, 20);
             this.nota1.TabIndex = 0;
@@ -76,7 +76,7 @@
             // nota2
             // 
             this.nota2.Location = new System.Drawing.Point(94, 97);
-            this.nota2.MaxLength = 10;
+            this.nota2.MaxLength = 9;
             this.nota2.Name = "nota2";
             this.nota2.Size = new System.Drawing.Size(100, 20);
             this.nota2.TabIndex = 1;
@@ -93,7 +93,7 @@
             // nota3
             // 
             this.nota3.Location = new System.Drawing.Point(94, 134);
-            this.nota3.MaxLength = 10;
+            this.nota3.MaxLength = 9;
             this.nota3.Name = "nota3";
             this.nota3.Size = new System.Drawing.Size(100, 20);
             this.nota3.TabIndex = 2;
@@ -110,7 +110,7 @@
             // nota4
             // 
             this.nota4.Location = new System.Drawing.Point(94, 171);
-            this.nota4.MaxLength = 10;
+            this.nota4.MaxLength = 9;
             this.nota4.Name = "nota4";
             this.nota4.Size = new System.Drawing.Size(100, 20);
             this.nota4.TabIndex = 3;
@@ -119,7 +119,7 @@
             // 
             this.btnCalcular.Font = new System.Drawing.Font("Trebuchet MS", 9F, System.Drawing.FontStyle.Bold);
             this.btnCalcular.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.btnCalcular.Location = new System.Drawing.Point(272, 57);
+            this.btnCalcular.Location = new System.Drawing.Point(269, 58);
             this.btnCalcular.Name = "btnCalcular";
             this.btnCalcular.Size = new System.Drawing.Size(96, 28);
             this.btnCalcular.TabIndex = 4;
@@ -130,7 +130,7 @@
             // btnLimpar
             // 
             this.btnLimpar.Font = new System.Drawing.Font("Trebuchet MS", 9F, System.Drawing.FontStyle.Bold);
-            this.btnLimpar.Location = new System.Drawing.Point(272, 168);
+            this.btnLimpar.Location = new System.Drawing.Point(269, 169);
             this.btnLimpar.Name = "btnLimpar";
             this.btnLimpar.Size = new System.Drawing.Size(96, 28);
             this.btnLimpar.TabIndex = 5;
@@ -142,7 +142,7 @@
             // 
             this.txtMedia.AutoSize = true;
             this.txtMedia.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtMedia.Location = new System.Drawing.Point(265, 102);
+            this.txtMedia.Location = new System.Drawing.Point(262, 103);
             this.txtMedia.Name = "txtMedia";
             this.txtMedia.Size = new System.Drawing.Size(113, 15);
             this.txtMedia.TabIndex = 5;
@@ -152,12 +152,11 @@
             // 
             this.media.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.media.AutoEllipsis = true;
-            this.media.AutoSize = true;
-            this.media.Font = new System.Drawing.Font("Lucida Console", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.media.Location = new System.Drawing.Point(283, 126);
+            this.media.Font = new System.Drawing.Font("Lucida Console", 15.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.media.Location = new System.Drawing.Point(248, 129);
             this.media.Margin = new System.Windows.Forms.Padding(0);
             this.media.Name = "media";
-            this.media.Size = new System.Drawing.Size(62, 21);
+            this.media.Size = new System.Drawing.Size(146, 21);
             this.media.TabIndex = 6;
             this.media.Text = "....";
             this.media.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
