@@ -43,7 +43,8 @@ namespace CalcMedia
                         if (controle.Text == "")
                         {
                             numsVazio++;
-                        } else
+                        }
+                        else
                         {
                             numsErrados++;
                         }
@@ -66,24 +67,26 @@ namespace CalcMedia
             else if (numsVazio == 4)
             {
                 MessageBox.Show("Você não digitou nenhum número!\nResultado é igual à 0", "Nenhum número digitado", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-            } else
+            }
+            else
             {
                 media = soma / (4 - numsVazio);
 
                 var resultado = String.Format("{0:F2}", media);
-                 
+
                 if (resultado.Length < 8)
                 {
                     this.media.Font = new Font(this.media.Font.FontFamily, 16);
                 }
-                else if (resultado.Length < 11) 
+                else if (resultado.Length < 11)
                 {
                     this.media.Font = new Font(this.media.Font.FontFamily, 15);
                 }
                 else if (resultado.Length < 12)
                 {
                     this.media.Font = new Font(this.media.Font.FontFamily, 14);
-                } else
+                }
+                else
                 {
                     this.media.Font = new Font(this.media.Font.FontFamily, 13);
                 }

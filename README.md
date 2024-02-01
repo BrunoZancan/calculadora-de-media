@@ -37,7 +37,6 @@
  
 ![calculadoraEmExecucao2V2](https://github.com/BrunoZancan/calculadora-de-media/assets/154844348/25e770b5-dc73-48f6-bdf5-a6529226eb89)
 
-
 ***
 
 ### Tratamento de erros
