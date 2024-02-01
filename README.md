@@ -26,8 +26,17 @@
 ***
 
 ### Calculadora em uso
+
+ Com números grandes:
  
-![Calculadora em Uso](https://github.com/BrunoZancan/calculadora-de-media/assets/154844348/2e5c3fab-4335-457f-a56f-9c0cb8bbce08)
+![Calculadora em Uso](https://github.com/BrunoZancan/calculadora-de-media/assets/154844348/2e5c3fab-4335-457f-a56f-9c0cb8bbce08) 
+
+***
+
+ Com números pequenos:
+ 
+![calculadoraEmExecucao2V2](https://github.com/BrunoZancan/calculadora-de-media/assets/154844348/25e770b5-dc73-48f6-bdf5-a6529226eb89)
+
 
 ***
 
@@ -45,7 +54,8 @@
 
 **[Windows *(Google Drive)*](https://drive.google.com/file/d/1axbCTYSsZsZsELOBUMRWNEz-8-dPf8TI/view?usp=sharing)**
 
- ***
+***
 
  Espero que você tenha gostado da calculadora, se achar algum bug ou algo a melhorar por favor me avise, **Obrigado**
 
+***
