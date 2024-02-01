@@ -69,15 +69,5 @@ namespace CalculadoraDeMedia.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap istockphoto_1359818120_612x612 {
-            get {
-                object obj = ResourceManager.GetObject("istockphoto-1359818120-612x612", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }
