@@ -21,13 +21,13 @@
 
 ## Interface da Calculadora
 
-![Interface da Calculadora](https://github.com/BrunoZancan/calculadora-de-media/assets/154844348/f04ff1f3-95b4-474d-a4a9-e01aaf661f58)
+![Interface da Calculadora](https://github.com/BrunoZancan/calculadora-de-media/assets/154844348/51ecb2df-a029-473f-b368-40b44bcd8228)
 
 ***
 
 ### Calculadora em uso
  
-![Calculadora em Uso](https://github.com/BrunoZancan/calculadora-de-media/assets/154844348/8e71e395-8df7-45b3-8fe9-1ff429d20f63)
+![Calculadora em Uso](https://github.com/BrunoZancan/calculadora-de-media/assets/154844348/2e5c3fab-4335-457f-a56f-9c0cb8bbce08)
 
 ***
 
@@ -35,7 +35,7 @@
 
  Caso você digite algum número inválido, o aplicativo irá te alertar, evitando erros de lógica
 
-![Tratamento de erros](https://github.com/BrunoZancan/calculadora-de-media/assets/154844348/832e19ea-1af5-4d6d-81a0-a825885e7d1e)
+![Tratamento de erros](https://github.com/BrunoZancan/calculadora-de-media/assets/154844348/ea475bbc-abd5-4419-a47d-0274824b32f3)
 
 ***
 
@@ -43,7 +43,7 @@
 
  Caso você queira baixar e testar a calculadora, abaixo está o link de download pelo **Google Drive**
 
-**[Windows *(Google Drive)*](https://drive.google.com/file/d/1e472lXKoT0ObACyh-g-XXrlu1Q1My-EY/view?usp=drive_link)**
+**[Windows *(Google Drive)*](https://drive.google.com/file/d/1axbCTYSsZsZsELOBUMRWNEz-8-dPf8TI/view?usp=sharing)**
 
  ***
 
