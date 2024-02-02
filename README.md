@@ -49,9 +49,13 @@
 
 ## Baixar Calculadora
 
+ Infelizmente a calculadora só funciona para **Windows**, já que ela foi feita usando **Windows Forms**
+
  Caso você queira baixar e testar a calculadora, abaixo está o link de download pelo **Google Drive**
 
-**[Windows *(Google Drive)*](https://drive.google.com/file/d/1axbCTYSsZsZsELOBUMRWNEz-8-dPf8TI/view?usp=sharing)**
+Nome | Versão | Lançamento | Download
+:---: | ---: | :--- | :---: 
+Calculadora | V2.3.1 | 02/02/2024 | **[Calculadora V2.3.1 *(Google Drive)*](https://drive.google.com/file/d/1Qik44u-WG045aulZm0TVRrlbI1-1HByj/view?usp=sharing)** 
 
 ***
 
