@@ -46,19 +46,3 @@
 ![Tratamento de erros](https://github.com/BrunoZancan/calculadora-de-media/assets/154844348/ea475bbc-abd5-4419-a47d-0274824b32f3)
 
 ***
-
-## Baixar Calculadora
-
- Infelizmente a calculadora só funciona para **Windows**, já que ela foi feita usando **Windows Forms**
-
- Caso você queira baixar e testar a calculadora, abaixo está o link de download pelo **Google Drive**
-
-Nome | Versão | Lançamento | Download
-:---: | ---: | :--- | :---: 
-Calculadora | V2.3.1 | 02/02/2024 | **[Calculadora V2.3.1 *(Google Drive)*](https://drive.google.com/file/d/1Qik44u-WG045aulZm0TVRrlbI1-1HByj/view?usp=sharing)** 
-
-***
-
- Espero que você tenha gostado da calculadora, se achar algum bug ou algo a melhorar por favor me avise, **Obrigado**
-
-***
